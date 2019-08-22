@@ -27,6 +27,8 @@ Features:
 
 - Mobile App (Additional Addon - see https://FitTechHosting.com/cryptocurrency )
 
+- Fee Sent to Wallet Owner (Included w/ Hosting - https://FitTechHosting.com/cryptocurrency)
+
 Planned Features:
 
 - Have QR Codes open in lightbox instead of new tab
@@ -35,7 +37,19 @@ Planned Features:
 
 - Improved Bootstrap Theme 
 
+Todo List:
 
+- Issue #78 - PHP Juggling 
+
+- Issue #82 - Strip tags bug
+
+- Issue #83 - change default password from changeme
+
+- Issue #36  Stop using md5
+
+- Change background from ugly yellow
+
+ 
 More Information:
 
 Created by Johnathan Martin of FitTechHosting.com
